@@ -10,6 +10,9 @@ Browser Security Risks and Extension Management
 - Receive silent malicious updates post-installation.
 - Appear legitimate while functioning as spyware.
 
+![image](https://github.com/user-attachments/assets/13a8f39d-d048-4811-b6c0-697898107b58)
+
+
 2. What permissions should raise suspicion?
 -------------------------------------------
 - "Read and change all your data on websites you visit"
