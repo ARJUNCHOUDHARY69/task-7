@@ -1,0 +1,53 @@
+
+Browser Extension Audit Report
+==============================
+
+Date: [Insert Date]
+Browser Used: [e.g., Google Chrome / Mozilla Firefox / Microsoft Edge]
+
+1. Accessing Extension Manager
+------------------------------
+Navigated to the browser's extension/add-ons manager using:
+- Chrome: chrome://extensions/
+- Firefox: about:addons
+- Edge: edge://extensions/
+
+2. Review of Installed Extensions
+---------------------------------
+| Extension Name     | Description                   | Permissions Granted              | Trustworthy? |
+|--------------------|-------------------------------|----------------------------------|--------------|
+| AdBlock            | Blocks ads on web pages       | Access to all site data          | Yes          |
+| Grammarly          | Writing assistance            | Reads and changes text on sites  | Yes          |
+| Unknown PDF Reader | No clear publisher or website | Access to all site data, clipboard | No        |
+| Screenshot Tool    | Screenshot capture utility    | Access to screen contents        | Yes          |
+
+3. Suspicious or Unused Extensions Identified
+---------------------------------------------
+- Unknown PDF Reader
+  - No clear source or reviews
+  - Broad permissions
+  - Marked as potentially risky
+
+4. Actions Taken
+----------------
+- Removed:
+  - Unknown PDF Reader
+  - One old extension no longer in use: Weather Now
+
+5. Browser Restart
+------------------
+- Restarted the browser to complete the removal process.
+- Observed a slight improvement in load speed and reduced memory usage.
+
+6. Research: How Malicious Extensions Harm Users
+------------------------------------------------
+Malicious browser extensions can:
+- Steal login credentials by monitoring keystrokes.
+- Inject ads or redirect search results.
+- Capture clipboard content, including copied passwords or card details.
+- Track user browsing habits for ad profiling or resale.
+
+7. Summary
+----------
+Maintaining clean and trustworthy browser extensions is essential for both privacy and performance. 
+Regular audits can help protect against spyware, data leaks, and slowdowns.
